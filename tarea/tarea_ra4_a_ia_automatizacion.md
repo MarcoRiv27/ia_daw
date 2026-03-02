@@ -1,5 +1,5 @@
 # IA
-#Ãutor: Marco Rivero Florencio
+# Autor: Marco Rivero Florencio
 
 1) Describe el proceso “ANTES” (sin IA)
 
@@ -15,7 +15,6 @@
  6. Guarda el excel en el servidor
 
 ¿Cuánto tarda? (estimación)
-
 Estimado: 1.00 a 1.30
 Depende de los datos que le manden y las introduciones dadas podra cambiar el tiempo estimado
 
@@ -23,18 +22,23 @@ Depende de los datos que le manden y las introduciones dadas podra cambiar el ti
 Nos podemos encontrar Errores humanos y que el excel este en una version antigua
 
 2) Propón la automatización con IA (DESPUÉS)
+   
 ¿Qué parte automatiza la IA? (clasificación, predicción, extracción, generación, etc.)
 Generación y clasificación de datos dentro en el excel
+
 ¿Qué queda para humanos? (validación, excepciones, decisiones críticas)
 Validacion y corrección del excel creado por la IA 
+
 ¿Qué datos necesitaría la IA? (sin datos sensibles; menciona tipos: logs, texto, imágenes…)
 Datos de la empresa dados para la construción del excel
+
 3) Explica la OPTIMIZACIÓN (mejora medible)
 Define 3 métricas y estima la mejora (aunque sea aproximada, debe ser coherente).
 
-Tiempo: p. ej., de 20 min → 5 min por caso
-Coste: p. ej., menos horas de soporte / menos escalados
-Calidad: p. ej., menos errores / mayor tasa de acierto / mejor priorización
+Tiempo: De 1.00-1.30 → 5 min por escribir el texto que quieres que cree la IA, con todos sus parametros
+Coste: Menos horas de gasto energetico y menos tiempo en corrección de errores 
+Calidad: menos errores, mayor tasa de acierto y más optimo.
+
 4) Riesgos y mitigación (obligatorio)
-Incluye 2 riesgos (sesgo, alucinaciones, privacidad, dependencia, seguridad, costes…).
-Propón 2 mitigaciones (humano en el bucle, validación, auditoría, límites, trazabilidad…).
+2 riesgos (Brecha de seguridad y posibles Datos incorrecto).
+2 mitigaciones (Validación automática con reglas y Revisión humana estructurada).
