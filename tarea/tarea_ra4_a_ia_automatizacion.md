@@ -90,4 +90,4 @@ Calidad: menos errores, mayor tasa de acierto y más optimo.
 2 mitigaciones (Validación automática con reglas y Revisión humana estructurada).
 
 ## 7) Fuente oficial
-- Enlace
+- (https://github.com/MarcoRiv27/ia_daw/blob/tarea/ia-bc/tarea/tarea_ra4_a_ia_automatizacion.md)
