@@ -1,12 +1,17 @@
 # IA
 # Autor: Marco Rivero Florencio
 
-1) Describe el proceso “ANTES” (sin IA)
+# Práctica IA (RA4 · a) — Automatización y optimización
 
-¿Quién lo hace? (rol/equipo)
- Oficinista: Es su puesto de trabajo, casi todo su trabajo era crear tablas de excel y rellenarlos con datos de sus compañeros. 
-¿Qué pasos tiene? (5–7 pasos)
+## 1) Proceso elegido
+- Nombre del proceso: Creación de un Excel
+- Contexto (empresa/servicio web/IT): En una empresa dedicada a la documentación queremos crear un excel
+  para ello utilizaremos un empreado o IA para poder compararlos y ver quien es mejor.
+- Rol/es implicados: Oficinista especializado en la creacción de excel, hecho apartir de los datos de sus compañeros
 
+## 2) ANTES (sin IA)
+- Pasos (5–7):
+  
  1. Recibe los datos
  2. Lee los datos
  3. Planea un esquema
@@ -14,31 +19,75 @@
  5. Introduce los datos a mano
  6. Guarda el excel en el servidor
 
-¿Cuánto tarda? (estimación)
-Estimado: 1.00 a 1.30
-Depende de los datos que le manden y las introduciones dadas podra cambiar el tiempo estimado
+ Estimado: 1.00 a 1.30
+ Depende de los datos que le manden y las introduciones dadas podra cambiar el tiempo estimado
 
-¿Qué errores o cuellos de botella hay?
-Nos podemos encontrar Errores humanos y que el excel este en una version antigua
 
-2) Propón la automatización con IA (DESPUÉS)
-   
-¿Qué parte automatiza la IA? (clasificación, predicción, extracción, generación, etc.)
-Generación y clasificación de datos dentro en el excel
+## 3) DESPUÉS (con IA)
+- ¿Qué automatiza la IA?
+  Generación y clasificación de datos dentro en el excel
+ 
+- ¿Qué queda para humanos?
+  Validacion y corrección del excel creado por la IA
+  
+- Datos necesarios (tipos de datos, sin datos personales):
+  Datos de la empresa dados para la construción del excel
+  
+- Modelo/técnica (NLP, clasificación, recomendación, visión, etc.):
+Modelos de clasificación para organizar y categorizar los datos automáticamente.
 
-¿Qué queda para humanos? (validación, excepciones, decisiones críticas)
-Validacion y corrección del excel creado por la IA 
-
-¿Qué datos necesitaría la IA? (sin datos sensibles; menciona tipos: logs, texto, imágenes…)
-Datos de la empresa dados para la construción del excel
-
-3) Explica la OPTIMIZACIÓN (mejora medible)
-Define 3 métricas y estima la mejora (aunque sea aproximada, debe ser coherente).
-
+## 4) Optimización (mejora medible)
+Define 3 métricas con valores antes/después:
 Tiempo: De 1.00-1.30 → 5 min por escribir el texto que quieres que cree la IA, con todos sus parametros
 Coste: Menos horas de gasto energetico y menos tiempo en corrección de errores 
 Calidad: menos errores, mayor tasa de acierto y más optimo.
 
-4) Riesgos y mitigación (obligatorio)
+## 5) Diagrama del flujo (ASCII o Mermaid)
+        ┌───────────────┐
+        │     Inicio    │
+        └───────┬───────┘
+                │
+                ▼
+     ┌────────────────────┐
+     │ 1. Recibe los datos│
+     └─────────┬──────────┘
+               │
+               ▼
+     ┌────────────────────┐
+     │ 2. Lee los datos   │
+     └─────────┬──────────┘
+               │
+               ▼
+     ┌────────────────────┐
+     │3. Planea un esquema│
+     └─────────┬──────────┘
+               │
+               ▼
+     ┌────────────────────────────┐
+     │ 4. Crea el Excel según     │
+     │    lo planeado             │
+     └─────────┬──────────────────┘
+               │
+               ▼
+     ┌────────────────────────────┐
+     │ 5. Introduce los datos     │
+     │    manualmente             │
+     └─────────┬──────────────────┘
+               │
+               ▼
+     ┌────────────────────────────┐
+     │ 6. Guarda el Excel en el   │
+     │    servidor                │
+     └─────────┬──────────────────┘
+               │
+               ▼
+        ┌───────────────┐
+        │      Fin      │
+        └───────────────┘
+
+## 6) Riesgos y mitigación
 2 riesgos (Brecha de seguridad y posibles Datos incorrecto).
 2 mitigaciones (Validación automática con reglas y Revisión humana estructurada).
+
+## 7) Fuente oficial
+- Enlace
