@@ -97,19 +97,20 @@ Ejemplo:
   <img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/a89de2e4-a78a-42ea-959a-a677cc5fcf02" />
 
 ## 6) Riesgos y mitigación
-- Riesgo 1:
-- Mitigación 1:
-- Riesgo 2:
-- Mitigación 2:
+- Riesgo 1: El NPC toma decisiones erróneas provocando errores, afectando a la jugabilidad.
+- Mitigación 1: Usar datos de juego reales para entrenar la IA.
+- Riesgo 2: Alto consumo de recursos, provocando lag o caídas del juego
+- Mitigación 2: Optimizar el código de la IA.
 
 ## 7) Conclusión
-- Qué sectores destacan más:
-- Qué lenguajes aparecen con más frecuencia:
-- Qué importancia tiene esto para DAW/DAM:
+- Qué sectores destacan más: Tecnología y Software, Salud y Sanidad y contenido web
+- Qué lenguajes aparecen con más frecuencia: Python, C++ y JAVA
+- Qué importancia tiene esto para DAW/DAM: En nuestra posicion es un recurso muy interesante como herramienta que nosotros tenemos a nuestra alcanse y que nos podria ayudar y aligerar la carga del trabajo
 
 ## 8) Fuentes oficiales (mín. 2)
 - Fuente 1 (sectores / aplicación IA): https://www.ideg.es/aplicaciones-actuales-inteligencia-artificial/?utm_source=chatgpt.com
 - Fuente 2 (lenguajes / ecosistema técnico): https://www.datacamp.com/es/blog/ai-programming-languages
+
 
 
 
