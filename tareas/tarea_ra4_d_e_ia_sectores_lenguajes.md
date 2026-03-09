@@ -94,7 +94,7 @@
 ## 5) Diagrama (ASCII o Mermaid)
 Ejemplo:
 
-       <img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/a89de2e4-a78a-42ea-959a-a677cc5fcf02" />
+  <img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/a89de2e4-a78a-42ea-959a-a677cc5fcf02" />
 
 ## 6) Riesgos y mitigación
 - Riesgo 1:
@@ -110,6 +110,7 @@ Ejemplo:
 ## 8) Fuentes oficiales (mín. 2)
 - Fuente 1 (sectores / aplicación IA): https://www.ideg.es/aplicaciones-actuales-inteligencia-artificial/?utm_source=chatgpt.com
 - Fuente 2 (lenguajes / ecosistema técnico): https://www.datacamp.com/es/blog/ai-programming-languages
+
 
 
 
