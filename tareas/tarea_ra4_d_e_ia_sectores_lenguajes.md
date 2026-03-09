@@ -22,20 +22,25 @@
   Personaliza mejor la experiencia del usuario
 
 ### Sector 2
-- Nombre del sector:
-- Tipo de empresa/servicio:
-- Aplicación de IA:
-- Qué tarea mejora o automatiza:
-- Por qué la IA tiene implantación relevante en este sector:
+- Nombre del sector: base de datos
+- Tipo de empresa/servicio: CPD
+- Aplicación de IA: Optimizacion en la base de datos a la hora de la implementacion de datos
+- Qué tarea mejora o automatiza: Se optiene con este uso menos errores humanos ademas nos aligera el tiempo si lo hiciera una persona normal.
+- Por qué la IA tiene implantación relevante en este sector: Nos acorta el tiempo en la introduccion de datos, si lo hiciera una persona tardaria mucho más que la IA.
 - Beneficios que aporta:
+  Reduccion del tiempo
+  Menos errores humanos
+  Menor coste
 
 ### Sector 3
-- Nombre del sector:
-- Tipo de empresa/servicio:
-- Aplicación de IA:
-- Qué tarea mejora o automatiza:
-- Por qué la IA tiene implantación relevante en este sector:
+- Nombre del sector: Comercio electronico
+- Tipo de empresa/servicio: tick tock shop
+- Aplicación de IA: Se utiliza para que segun lo que busque el usuario la IA le mande al usuario recomendaciones basandonos en un análisis de comportamiento del usuario
+- Qué tarea mejora o automatiza: Sugerir productos según intereses del cliente y analizar patrones de compra para un mejor servicio en la tienda
+- Por qué la IA tiene implantación relevante en este sector: El comercio electrónico depende mucho del análisis de datos y de la personalización para aumentar las ventas.
 - Beneficios que aporta:
+  Mejora de la experiencia del cliente
+  Optimización del marketing digital
 
 ## 3) Lenguajes de programación en IA
 
@@ -87,3 +92,4 @@
 ## 8) Fuentes oficiales (mín. 2)
 - Fuente 1 (sectores / aplicación IA):
 - Fuente 2 (lenguajes / ecosistema técnico):
+
