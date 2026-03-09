@@ -68,25 +68,33 @@
   
 ### Lenguaje 3
 - Nombre: C++
-- Uso principal en IA:
-- Ventajas:
+- Uso principal en IA: utiliza habitualmente en IA para manejar tareas que requieren un nivel de potencia computacional y precisión en la gestión de los recursos de hardware.
+- Ventajas: 
 - Ejemplos de uso:
 
 ### Lenguaje 4
 - Nombre:
 - Uso principal en IA:
 - Ventajas:
+  Alto rendimiento
+  Integración con hardware
+  Base de muchas librerías de IA
 - Ejemplos de uso:
+  Ingeniería en robótica
+  Ingeniería de visión artificial
+  Ingeniería de sistemas integrados
 
 ## 4) Relación entre sectores, tipo de IA y lenguaje
 | Sector | Aplicación de IA | Tipo de IA/técnica | Lenguaje recomendado | Justificación |
 |--------|------------------|--------------------|----------------------|---------------|
-|        |                  |                    |                      |               |
-|        |                  |                    |                      |               |
-|        |                  |                    |                      |               |
+|  Transporte  | Vehículos autónomos | Redes neuronales profundas y aprendizaje por refuerzo  | C++ | Permite alto rendimiento y control del hardware necesario para sistemas en tiempo real |
+| Salud | Diagnóstico médico con datos  | Visión por computadora y aprendizaje profundo | Python | Tiene muchas librerías de IA y ciencia de datos que facilitan el desarrollo rápido de modelos |
+| Videojuegos | IA de personajes (NPC)  | Algoritmos de decisión y aprendizaje automático | C++ | Es muy usado en motores de videojuegos por su velocidad y eficiencia. |
 
 ## 5) Diagrama (ASCII o Mermaid)
-(Pega aquí el diagrama)
+Ejemplo:
+
+       <img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/a89de2e4-a78a-42ea-959a-a677cc5fcf02" />
 
 ## 6) Riesgos y mitigación
 - Riesgo 1:
@@ -100,7 +108,8 @@
 - Qué importancia tiene esto para DAW/DAM:
 
 ## 8) Fuentes oficiales (mín. 2)
-- Fuente 1 (sectores / aplicación IA):
-- Fuente 2 (lenguajes / ecosistema técnico):
+- Fuente 1 (sectores / aplicación IA): https://www.ideg.es/aplicaciones-actuales-inteligencia-artificial/?utm_source=chatgpt.com
+- Fuente 2 (lenguajes / ecosistema técnico): https://www.datacamp.com/es/blog/ai-programming-languages
+
 
 
