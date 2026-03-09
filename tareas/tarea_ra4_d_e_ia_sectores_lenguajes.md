@@ -45,19 +45,29 @@
 ## 3) Lenguajes de programación en IA
 
 ### Lenguaje 1
-- Nombre:
-- Uso principal en IA:
+- Nombre: Python
+- Uso principal en IA: Desarrollo de modelos de machine learning y análisis de datos
 - Ventajas:
+  Sintaxis sencilla
+  Gran cantidad de librerías
+  Comunidad muy grande
 - Ejemplos de uso:
-
+  Sistemas de recomendación
+  Desarrollo de modelos predictivos
+  
 ### Lenguaje 2
-- Nombre:
-- Uso principal en IA:
+- Nombre: Java
+- Uso principal en IA: Java se utiliza en la IA para crear aplicaciones multiplataforma a gran escala que integran funcionalidades de IA.
 - Ventajas:
+  Gran rendimiento
+  Estable
 - Ejemplos de uso:
-
+  Ingenieria de big data
+  Ingenierria de software
+  Ingenierria de infraestructuras de IA
+  
 ### Lenguaje 3
-- Nombre:
+- Nombre: C++
 - Uso principal en IA:
 - Ventajas:
 - Ejemplos de uso:
@@ -92,4 +102,5 @@
 ## 8) Fuentes oficiales (mín. 2)
 - Fuente 1 (sectores / aplicación IA):
 - Fuente 2 (lenguajes / ecosistema técnico):
+
 
