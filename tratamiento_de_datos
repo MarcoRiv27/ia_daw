@@ -1,0 +1,46 @@
+# IA
+# Autor: Marco Rivero Florencio
+
+# Práctica IA (RA4 · a) — tratamiento de datos
+
+## 1) Proceso elegido
+- Tipo de aplicación: Aplicacion de compra web(Ejemplo: Marketplace)
+- Problema: El usuario no sabe como encontrar los productos que a el le gustan, por que hay muchas productos que no le interesa
+- Usuario: Un cliente nuevo de la pagina que quiere comprar una camara
+
+## 2) Datos
+- Datos: (Es nuevo asi que no tiene ningun historial de compras), productos que esta buscando y clics en los productos.
+- Tipo minería: La ia despues de almacenar datos puede "Predecir" lo que quieres ver, comparar con otros usuarios lo que llamamos "Clustering"
+
+
+##3) Pipeline
+- Recogida: El sitio web recoge los datos de busqueda y clips hecho por el usuario.
+- Limpieza: Se eliminan los datos que no tienen sentido, duplicados o que lleva mucho tiempo sin buscar o hacer clips
+- Transformación: Los datos son formas muy buenas para poder conoces sus gustos, esto nos ayuda a comvertir los datos en útilidades
+- Entrenamiento: Machine Learning con los datos del usuario recopilado.
+- Predicción: Predice lo que le puede llamar más la atencion al usuario segun sus datos almacenados.
+- Uso: El sitio web muestra las recomendaciones que la IA a interpretado que le pueden gustar al usuario.
+
+## 4) Integración
+- Backend: Nos permite unir el sitio web con la IA integrada en la pagina web
+- Frontend: En la interfaz web del usuario que muestra las recomendaciones hechas al usuario.
+- Flujo:
+        1. Usuario inicia sesión
+        2. La app envía datos al backend
+        3. El backend consulta el modelo de IA integrado
+        4. La IA genera recomendaciones
+        5. Se muestran en el Frotend productos recomendados al usuario
+
+
+## 5) Valor
+- Mejora: Gracias a la IA nos permite utilizar una experiencia mejor al usuario, gracias a la recomendaciones hechas asi el.
+- Sin IA: No tendriamos esas recomendaciones personalizadas al usuario, y todos los usuarios lo verian todos igual.
+- Rentabilidad: Nos ayuda a subir las ventas y hace que el usuario tenga un extancia mas larga en la web.
+
+## 6) Diagrama
+
+## 6) Riesgos y mitigación
+2 riesgos (Brecha de seguridad y posibles Datos incorrecto).
+2 mitigaciones (Validación automática con reglas y Revisión humana estructurada).
+
+## 7) Fuente oficial
