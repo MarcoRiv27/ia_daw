@@ -39,8 +39,13 @@
 
 ## 6) Diagrama
 
-## 6) Riesgos y mitigación
-2 riesgos (Brecha de seguridad y posibles Datos incorrecto).
-2 mitigaciones (Validación automática con reglas y Revisión humana estructurada).
+Usuario → App Web → Backend → Modelo IA → Recomendaciones → Usuario
 
-## 7) Fuente oficial
+## 7)Riesgos
+- Riesgo 1: Recomendaciones incorrectas
+- Mitigación 1: Revisar y actualizar regularmente la IA
+- Riesgo 2: Dependencia excesiva de la IA
+- Mitigación 2: Implementar un sistema alternativo básico
+
+## 8) Fuente oficial
+https://www.sas.com/es_es/insights/analytics/data-mining.html
